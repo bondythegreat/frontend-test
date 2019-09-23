@@ -1,0 +1,134 @@
+.multiselect, .multiselect__input, .multiselect__single {
+	font-size: 13px;
+}
+.multiselect {
+	display: inline-block;
+	width: 210px;
+	input[type="text"] {
+		padding: 0;
+	}
+
+	&__select {
+		background: transparent url('~@/assets/icon-chevron-down.svg') center center no-repeat;
+		background-size: 10px 10px;
+		width: 35px;
+	    height: 40px;
+	    padding: 0;
+	    top: 1px;
+		&:before {
+			border: none;
+		}
+	}
+
+	&__tags {
+		min-height: 20px;
+		font-size: 13px;
+		padding-top: 11px;
+	}
+
+	&__single {
+		margin-bottom: 10px;
+		padding-left: 0;
+	}
+	&__placeholder {
+		margin-bottom: 12px;
+	}
+
+	&__content-wrapper {
+		border-radius: 5px;
+		top: 50px;
+	}
+
+	&--active {
+		.multiselect__tags {
+			border-color: $secondary-color;
+			border-radius: 5px!important;
+			height: 42px;
+			input {
+				margin: 0 0 11px 0;
+			}
+			&-wrap {
+				opacity: 0;
+			}
+		}
+
+		.multiselect__select {
+
+		}
+	}
+
+	&__option {
+		background-color: white;
+		color: $font-color;
+		&:hover {
+			background-color: $bg-grey!important;
+		}
+		&:before {
+			content: "";
+			display: inline-block;
+			margin: 0 10px 0 0;
+		}
+		&:after {
+			content:"";
+		}
+		&--selected {
+			font-weight: normal;
+			&.multiselect__option--highlight {
+				background-color: white;
+				color: $font-color;
+				&:after {
+					content: "";
+				}
+			}
+		}
+	}
+
+	&.multipleselector {
+		.multiselect__option {
+			&:before {
+				background-image: url('~@/assets/checkbox.png');
+				background-position: 0 bottom;
+				content: "";
+				display: block;
+				float: left;
+				width: 16px;
+				height: 16px;
+				margin: 0 6px 0 0;
+			}
+			&--selected {
+				&:before {
+					background-position: 0 top;
+				}
+			}
+		}
+	}
+}
+
+.arrow_box {
+	position: relative;
+	background: #ffffff;
+	border: 1px solid #e8e8e8;
+}
+.arrow_box:after, .arrow_box:before {
+	bottom: 100%;
+	left: 20%;
+	border: solid transparent;
+	content: " ";
+	height: 0;
+	width: 0;
+	position: absolute;
+	pointer-events: none;
+}
+
+.arrow_box:after {
+	border-color: rgba(255, 255, 255, 0);
+	border-bottom-color: #ffffff;
+	border-width: 7px;
+	margin-left: -7px;
+}
+.arrow_box:before {
+	border-color: rgba(232, 232, 232, 0);
+	border-bottom-color: #e8e8e8;
+	border-width: 8px;
+	margin-left: -8px;
+}

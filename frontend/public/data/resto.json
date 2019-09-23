@@ -1,0 +1,632 @@
+[
+  {
+    "guid": "306d4a8b-8e69-4a56-87d8-f5893ccc11e9",
+    "picture": "http://placehold.it/800x600",
+    "name": "Pholio Warung",
+    "location": "Glogor Carik",
+    "discountText": "19% Save",
+    "address": "111 Sutter Avenue, Oneida, Kentucky, 8444",
+    "price": 90,
+    "latitude": "-29.992689",
+    "longitude": "123.671481",
+    "tags": [
+      "incididunt",
+      "reprehenderit",
+      "sint",
+      "in",
+      "do"
+    ]
+  },
+  {
+    "guid": "3d73903c-3f7e-4797-810a-a9bc99a43f9c",
+    "picture": "http://placehold.it/800x600",
+    "name": "Coriander Bali",
+    "location": "Glogor Carik",
+    "discountText": "LIMITED VOUCHERS",
+    "address": "270 Dover Street, Beason, Idaho, 2834",
+    "price": 86,
+    "latitude": "1.742498",
+    "longitude": "28.300355",
+    "tags": [
+      "dolor",
+      "tempor",
+      "voluptate",
+      "tempor",
+      "nisi"
+    ]
+  },
+  {
+    "guid": "5d6d0da4-70ea-4590-b842-22f9fc735a22",
+    "picture": "http://placehold.it/800x600",
+    "name": "Anocha Pizza",
+    "location": "Ungasan",
+    "discountText": "SAVE UP TO 32%",
+    "address": "217 Autumn Avenue, Kapowsin, California, 4430",
+    "price": 24,
+    "latitude": "-57.88174",
+    "longitude": "-127.964206",
+    "tags": [
+      "incididunt",
+      "sit",
+      "aute",
+      "nulla",
+      "pariatur"
+    ]
+  },
+  {
+    "guid": "3ad5fdb6-d9d1-45bb-8f6f-6baf77cb7a1d",
+    "picture": "http://placehold.it/800x600",
+    "name": "Xoggle Pizza",
+    "location": "Seminyak",
+    "discountText": "44% OFF 2 COURSE LUNCH",
+    "address": "835 Malta Street, Munjor, Federated States Of Micronesia, 6067",
+    "price": 98,
+    "latitude": "-50.55391",
+    "longitude": "-135.113765",
+    "tags": [
+      "deserunt",
+      "nisi",
+      "in",
+      "in",
+      "qui"
+    ]
+  },
+  {
+    "guid": "8c01f7c1-03e8-43d3-a851-dc99111fa622",
+    "picture": "http://placehold.it/800x600",
+    "name": "Kegular Restorante",
+    "location": "Ungasan",
+    "discountText": "$28 More Value",
+    "address": "313 Bliss Terrace, Coinjock, Montana, 7890",
+    "price": 64,
+    "latitude": "52.985624",
+    "longitude": "144.048472",
+    "tags": [
+      "nulla",
+      "pariatur",
+      "voluptate",
+      "mollit",
+      "voluptate"
+    ]
+  },
+  {
+    "guid": "5199112b-bfc4-484c-bd8f-35be1daf9869",
+    "picture": "http://placehold.it/800x600",
+    "name": "Pyrami Restorante",
+    "location": "Canggu",
+    "discountText": "$24 More Value",
+    "address": "150 Willow Place, Celeryville, Missouri, 5289",
+    "price": 73,
+    "latitude": "57.301934",
+    "longitude": "-164.98234",
+    "tags": [
+      "incididunt",
+      "qui",
+      "tempor",
+      "nulla",
+      "ea"
+    ]
+  },
+  {
+    "guid": "2c6d9ecb-bcf9-4a0d-a5ae-c6d00acaf96b",
+    "picture": "http://placehold.it/800x600",
+    "name": "Crustatia Restorante",
+    "location": "Seminyak",
+    "discountText": "40% OFF 2 COURSE LUNCH",
+    "address": "845 Ferris Street, Allison, New York, 3212",
+    "price": 64,
+    "latitude": "83.004116",
+    "longitude": "-177.310653",
+    "tags": [
+      "id",
+      "commodo",
+      "consectetur",
+      "magna",
+      "veniam"
+    ]
+  },
+  {
+    "guid": "d39120dc-3557-4fff-a9f1-d402de0d6138",
+    "picture": "http://placehold.it/800x600",
+    "name": "Anixang Bali",
+    "location": "Glogor Carik",
+    "discountText": "40% OFF 2 COURSE LUNCH",
+    "address": "956 Mill Street, Stewartville, Tennessee, 6320",
+    "price": 45,
+    "latitude": "-49.109028",
+    "longitude": "145.829817",
+    "tags": [
+      "incididunt",
+      "fugiat",
+      "incididunt",
+      "id",
+      "magna"
+    ]
+  },
+  {
+    "guid": "8f407cc1-aa7d-462e-9761-ddab68db1206",
+    "picture": "http://placehold.it/800x600",
+    "name": "Essensia Pizza",
+    "location": "Glogor Carik",
+    "discountText": "$25 More Value",
+    "address": "819 Dobbin Street, Lewis, New Mexico, 886",
+    "price": 29,
+    "latitude": "69.92449",
+    "longitude": "-157.944113",
+    "tags": [
+      "Lorem",
+      "in",
+      "ipsum",
+      "ad",
+      "labore"
+    ]
+  },
+  {
+    "guid": "ce7f4524-3c74-458c-a569-494b17277b90",
+    "picture": "http://placehold.it/800x600",
+    "name": "Kongene Cafe",
+    "location": "Ungasan",
+    "discountText": "$22 More Value",
+    "address": "579 Railroad Avenue, Lydia, Iowa, 6293",
+    "price": 66,
+    "latitude": "53.191434",
+    "longitude": "75.597418",
+    "tags": [
+      "irure",
+      "sint",
+      "velit",
+      "culpa",
+      "et"
+    ]
+  },
+  {
+    "guid": "e9f70568-379c-4156-8309-e1cb8fb4c3b7",
+    "picture": "http://placehold.it/800x600",
+    "name": "Centregy Restorante",
+    "location": "Seminyak",
+    "discountText": "$24 More Value",
+    "address": "917 Maple Street, Courtland, Mississippi, 504",
+    "price": 92,
+    "latitude": "43.392078",
+    "longitude": "-165.421431",
+    "tags": [
+      "id",
+      "fugiat",
+      "mollit",
+      "sunt",
+      "esse"
+    ]
+  },
+  {
+    "guid": "8fa67f87-e783-497e-ba8f-6f4032f94cd6",
+    "picture": "http://placehold.it/800x600",
+    "name": "Quarx Restorante",
+    "location": "Seminyak",
+    "discountText": "36% OFF 2 COURSE LUNCH",
+    "address": "352 Bradford Street, Greenock, Vermont, 1879",
+    "price": 73,
+    "latitude": "52.013006",
+    "longitude": "-144.873665",
+    "tags": [
+      "duis",
+      "ex",
+      "voluptate",
+      "ipsum",
+      "aliquip"
+    ]
+  },
+  {
+    "guid": "8425d662-a5b3-454f-8733-c85db1a909e1",
+    "picture": "http://placehold.it/800x600",
+    "name": "Nurplex Restorante",
+    "location": "Kuta",
+    "discountText": "19% Save",
+    "address": "746 Just Court, Cleary, Georgia, 9233",
+    "price": 68,
+    "latitude": "33.881085",
+    "longitude": "-134.853442",
+    "tags": [
+      "elit",
+      "aliqua",
+      "incididunt",
+      "occaecat",
+      "ex"
+    ]
+  },
+  {
+    "guid": "7f1e7a20-db2f-4688-8510-a7b5c986f1b9",
+    "picture": "http://placehold.it/800x600",
+    "name": "Medalert Bali",
+    "location": "Kuta",
+    "discountText": "35% OFF 2 COURSE LUNCH",
+    "address": "216 Bath Avenue, Montura, Arizona, 4870",
+    "price": 62,
+    "latitude": "-77.604958",
+    "longitude": "-126.292333",
+    "tags": [
+      "elit",
+      "dolore",
+      "dolore",
+      "pariatur",
+      "anim"
+    ]
+  },
+  {
+    "guid": "69e85c9d-ca4f-49e6-9250-ead6c1ac653c",
+    "picture": "http://placehold.it/800x600",
+    "name": "Applidec Pizza",
+    "location": "Kuta",
+    "discountText": "LIMITED VOUCHERS",
+    "address": "632 Kermit Place, Frizzleburg, Louisiana, 4892",
+    "price": 24,
+    "latitude": "-86.459928",
+    "longitude": "-42.955234",
+    "tags": [
+      "cillum",
+      "minim",
+      "elit",
+      "et",
+      "enim"
+    ]
+  },
+  {
+    "guid": "526a5cd5-9e89-4a75-a690-27a4df70d9f5",
+    "picture": "http://placehold.it/800x600",
+    "name": "Canopoly Cafe",
+    "location": "Canggu",
+    "discountText": "35% OFF 2 COURSE LUNCH",
+    "address": "687 Himrod Street, Wattsville, Northern Mariana Islands, 9267",
+    "price": 77,
+    "latitude": "-86.240245",
+    "longitude": "-67.340829",
+    "tags": [
+      "et",
+      "magna",
+      "dolor",
+      "et",
+      "cillum"
+    ]
+  },
+  {
+    "guid": "48bcbd74-0167-47ef-861f-b7484bcd9575",
+    "picture": "http://placehold.it/800x600",
+    "name": "Confrenzy Restorante",
+    "location": "Seminyak",
+    "discountText": "LIMITED VOUCHERS",
+    "address": "611 Fulton Street, Eureka, Hawaii, 8528",
+    "price": 75,
+    "latitude": "42.759338",
+    "longitude": "-139.795922",
+    "tags": [
+      "voluptate",
+      "fugiat",
+      "tempor",
+      "eu",
+      "fugiat"
+    ]
+  },
+  {
+    "guid": "d849ce91-d839-40d3-af5b-2db7814c30e3",
+    "picture": "http://placehold.it/800x600",
+    "name": "Zensure Restorante",
+    "location": "Kuta",
+    "discountText": "SAVE UP TO 30%",
+    "address": "630 Danforth Street, Cliffside, Rhode Island, 5783",
+    "price": 71,
+    "latitude": "-30.211389",
+    "longitude": "-168.766893",
+    "tags": [
+      "amet",
+      "excepteur",
+      "cillum",
+      "consequat",
+      "veniam"
+    ]
+  },
+  {
+    "guid": "ffc568c7-9d21-41b1-8328-23f864fec8f4",
+    "picture": "http://placehold.it/800x600",
+    "name": "Tingles Bali",
+    "location": "Ungasan",
+    "discountText": "SAVE UP TO 33%",
+    "address": "249 Orient Avenue, Townsend, Marshall Islands, 2783",
+    "price": 70,
+    "latitude": "45.287928",
+    "longitude": "120.965203",
+    "tags": [
+      "duis",
+      "ad",
+      "qui",
+      "tempor",
+      "sit"
+    ]
+  },
+  {
+    "guid": "22012d68-53a6-4d88-9392-6a174b36197f",
+    "picture": "http://placehold.it/800x600",
+    "name": "Ramjob Bali",
+    "location": "Glogor Carik",
+    "discountText": "40% OFF 2 COURSE LUNCH",
+    "address": "267 Hunts Lane, Layhill, Ohio, 3467",
+    "price": 96,
+    "latitude": "28.699978",
+    "longitude": "148.229265",
+    "tags": [
+      "dolor",
+      "magna",
+      "fugiat",
+      "ut",
+      "dolor"
+    ]
+  },
+  {
+    "guid": "d2da66ab-243c-4794-9ed8-897cded9b685",
+    "picture": "http://placehold.it/800x600",
+    "name": "Frenex Warung",
+    "location": "Kuta",
+    "discountText": "15% Save",
+    "address": "537 Farragut Place, Elrama, Guam, 5346",
+    "price": 98,
+    "latitude": "31.92017",
+    "longitude": "115.311713",
+    "tags": [
+      "duis",
+      "quis",
+      "esse",
+      "minim",
+      "eiusmod"
+    ]
+  },
+  {
+    "guid": "bcf7108f-85e7-4324-a830-db6a23710649",
+    "picture": "http://placehold.it/800x600",
+    "name": "Katakana Bali",
+    "location": "Glogor Carik",
+    "discountText": "18% Save",
+    "address": "949 Hope Street, Disautel, Florida, 5396",
+    "price": 26,
+    "latitude": "-33.070228",
+    "longitude": "140.289325",
+    "tags": [
+      "sint",
+      "est",
+      "voluptate",
+      "sunt",
+      "non"
+    ]
+  },
+  {
+    "guid": "7d98f2d4-444c-437c-9724-86562400923e",
+    "picture": "http://placehold.it/800x600",
+    "name": "Nixelt Bali",
+    "location": "Ungasan",
+    "discountText": "LIMITED VOUCHERS",
+    "address": "334 Nixon Court, Glenbrook, Wyoming, 7263",
+    "price": 86,
+    "latitude": "-14.812455",
+    "longitude": "54.232252",
+    "tags": [
+      "sint",
+      "id",
+      "ullamco",
+      "non",
+      "commodo"
+    ]
+  },
+  {
+    "guid": "ab0285c0-ae40-4eb9-bf34-71c04a2f630b",
+    "picture": "http://placehold.it/800x600",
+    "name": "Exoswitch Pizza",
+    "location": "Glogor Carik",
+    "discountText": "LIMITED VOUCHERS",
+    "address": "505 Powell Street, Cawood, Pennsylvania, 7468",
+    "price": 41,
+    "latitude": "43.297211",
+    "longitude": "-121.33246",
+    "tags": [
+      "consectetur",
+      "irure",
+      "elit",
+      "culpa",
+      "culpa"
+    ]
+  },
+  {
+    "guid": "07eb3683-f528-4e0d-a7fd-a842ba306570",
+    "picture": "http://placehold.it/800x600",
+    "name": "Pathways Cafe",
+    "location": "Canggu",
+    "discountText": "$20 More Value",
+    "address": "635 Sumner Place, Manila, Texas, 1750",
+    "price": 26,
+    "latitude": "38.801089",
+    "longitude": "-83.534897",
+    "tags": [
+      "laboris",
+      "ea",
+      "ipsum",
+      "occaecat",
+      "sunt"
+    ]
+  },
+  {
+    "guid": "fb39f97d-c3bb-4964-98bc-0e0f32edf5f2",
+    "picture": "http://placehold.it/800x600",
+    "name": "Keengen Bali",
+    "location": "Ungasan",
+    "discountText": "41% OFF 2 COURSE LUNCH",
+    "address": "522 Provost Street, Leyner, Michigan, 7593",
+    "price": 52,
+    "latitude": "-82.973624",
+    "longitude": "-126.39086",
+    "tags": [
+      "ad",
+      "amet",
+      "et",
+      "magna",
+      "voluptate"
+    ]
+  },
+  {
+    "guid": "5e6c21a7-215d-4458-bfae-375838d22216",
+    "picture": "http://placehold.it/800x600",
+    "name": "Biohab Cafe",
+    "location": "Seminyak",
+    "discountText": "$23 More Value",
+    "address": "179 Ivan Court, Farmington, North Carolina, 7046",
+    "price": 49,
+    "latitude": "-6.277798",
+    "longitude": "-165.002935",
+    "tags": [
+      "consectetur",
+      "dolore",
+      "adipisicing",
+      "ex",
+      "eu"
+    ]
+  },
+  {
+    "guid": "94c07af2-5d2f-49ad-993f-09bdacae5cde",
+    "picture": "http://placehold.it/800x600",
+    "name": "Farmex Restorante",
+    "location": "Ungasan",
+    "discountText": "SAVE UP TO 29%",
+    "address": "283 Baltic Street, Harviell, Colorado, 6846",
+    "price": 36,
+    "latitude": "7.848873",
+    "longitude": "-129.003469",
+    "tags": [
+      "tempor",
+      "dolore",
+      "fugiat",
+      "veniam",
+      "do"
+    ]
+  },
+  {
+    "guid": "703c13f7-3f53-4ba7-a9f7-a2f992e640d6",
+    "picture": "http://placehold.it/800x600",
+    "name": "Insectus Restorante",
+    "location": "Canggu",
+    "discountText": "SAVE UP TO 32%",
+    "address": "105 Dunham Place, Movico, North Dakota, 5252",
+    "price": 29,
+    "latitude": "-17.373158",
+    "longitude": "-164.601643",
+    "tags": [
+      "laboris",
+      "enim",
+      "tempor",
+      "velit",
+      "pariatur"
+    ]
+  },
+  {
+    "guid": "6500080b-1b60-4388-9080-4bbe8a0be484",
+    "picture": "http://placehold.it/800x600",
+    "name": "Exodoc Bali",
+    "location": "Kuta",
+    "discountText": "40% OFF 2 COURSE LUNCH",
+    "address": "765 Lincoln Avenue, Cashtown, Nevada, 4896",
+    "price": 44,
+    "latitude": "50.472283",
+    "longitude": "72.581058",
+    "tags": [
+      "labore",
+      "laboris",
+      "dolore",
+      "nisi",
+      "incididunt"
+    ]
+  },
+  {
+    "guid": "2cc7f887-e157-45e0-b144-26afd5101941",
+    "picture": "http://placehold.it/800x600",
+    "name": "Digigene Warung",
+    "location": "Seminyak",
+    "discountText": "SAVE UP TO 33%",
+    "address": "846 Eagle Street, Bascom, Palau, 6347",
+    "price": 31,
+    "latitude": "63.121641",
+    "longitude": "23.471028",
+    "tags": [
+      "ut",
+      "nulla",
+      "eiusmod",
+      "voluptate",
+      "cillum"
+    ]
+  },
+  {
+    "guid": "bde50ab7-de2e-4956-916d-1b61d97073f6",
+    "picture": "http://placehold.it/800x600",
+    "name": "Golistic Cafe",
+    "location": "Seminyak",
+    "discountText": "LIMITED VOUCHERS",
+    "address": "140 Crooke Avenue, Wheatfields, New Jersey, 6699",
+    "price": 69,
+    "latitude": "41.963132",
+    "longitude": "-133.893513",
+    "tags": [
+      "ex",
+      "laborum",
+      "sit",
+      "amet",
+      "pariatur"
+    ]
+  },
+  {
+    "guid": "2fe4d63a-4751-4f74-b68f-326522230da7",
+    "picture": "http://placehold.it/800x600",
+    "name": "Rameon Cafe",
+    "location": "Seminyak",
+    "discountText": "16% Save",
+    "address": "313 Wolcott Street, Malo, Utah, 9317",
+    "price": 23,
+    "latitude": "-31.731586",
+    "longitude": "122.725635",
+    "tags": [
+      "proident",
+      "occaecat",
+      "fugiat",
+      "irure",
+      "magna"
+    ]
+  },
+  {
+    "guid": "dac2a951-b84e-4302-8856-35756f34af6f",
+    "picture": "http://placehold.it/800x600",
+    "name": "Zenco Restorante",
+    "location": "Kuta",
+    "discountText": "LIMITED VOUCHERS",
+    "address": "642 Rutledge Street, Juarez, Arkansas, 4278",
+    "price": 99,
+    "latitude": "59.040822",
+    "longitude": "44.085936",
+    "tags": [
+      "culpa",
+      "deserunt",
+      "ea",
+      "eu",
+      "proident"
+    ]
+  },
+  {
+    "guid": "c2fe0c6b-b7be-4503-ae9f-986ce41eac1c",
+    "picture": "http://placehold.it/800x600",
+    "name": "Zilencio Restorante",
+    "location": "Kuta",
+    "discountText": "$22 More Value",
+    "address": "224 Diamond Street, Duryea, American Samoa, 6367",
+    "price": 59,
+    "latitude": "-80.20136",
+    "longitude": "62.478512",
+    "tags": [
+      "amet",
+      "minim",
+      "consequat",
+      "aliqua",
+      "anim"
+    ]
+  }
+]

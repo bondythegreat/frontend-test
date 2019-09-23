@@ -1,0 +1,31 @@
+.nav-link {
+	color: $font-color;
+	font-weight: bold;
+	padding: 16px 20px;
+}
+.navbar {
+	background-color: white;
+	display: flex;
+	padding: 8px 0;
+	.navbar-brand {
+		margin-right: 30px;
+	}
+	.navbar-collapse {
+		display: none;
+		flex: 1;
+		@include breakpoint(sm) {
+			display: flex;
+		}
+	}
+	.navbar-nav {
+		display: flex;
+		justify-content: left;
+		flex: 1;
+	}
+	.nav-link {
+		@extend .nav-link;
+	}
+	.navbar-item {
+		display: flex;
+	}
+}

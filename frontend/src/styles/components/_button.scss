@@ -1,0 +1,68 @@
+.button {
+	margin: 0 5px;
+}
+
+.trvlr-primary-btn {
+	background-color: $primary-color;
+	border-color: transparent;
+	border-radius: 3px;
+	color: white;
+	font-weight: bold;
+	font-size: 13px;
+	padding: 8px 20px;
+	white-space: nowrap;
+	&:hover {
+		background-color: $primary-color1;
+	}
+	&.big {
+		font-size: 15px;
+		padding: 11px 20px;
+	}
+}
+
+.trvlr-secondary-btn {
+	background-color: $primary-color1;
+	border: 1px solid $primary-color1;
+	border-radius: 4px;
+	color: white;
+	padding: 7px 20px;
+	font-size: 13px;
+	font-weight: bold;
+	white-space: nowrap;
+	&:hover {
+		background-color: $primary-color;
+		border: 1px solid $primary-color1;
+	}
+}
+
+.trvlr-primary-btn-outline {
+	@extend .trvlr-primary-btn;
+	background-color: transparent;
+	border: 1px solid $primary-color1;
+	color: $primary-color1;
+	&:hover, &.active {
+		background-color: $primary-color;
+		border: 1px solid $primary-color;
+		color: white;
+	}
+}
+
+.btn-map {
+	background-image: url('~@/assets/icon-map-blue.svg');
+	background-repeat: no-repeat;
+	background-size: 17px 17px;
+	background-position: 15px center;
+	padding-left: 40px!important;
+	&:hover, &.active {
+		background-image: url('~@/assets/icon-map.svg');
+	}
+}
+.navbar-toggler {
+	background-color: transparent;
+	border: none;
+	display: block;
+	padding: 0 30px 0 5px;
+	@include breakpoint(sm) {
+		display: none;
+	}
+}

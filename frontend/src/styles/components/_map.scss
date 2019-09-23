@@ -1,0 +1,23 @@
+.map {
+	height: 600px;
+	margin-bottom: -50px;
+}
+
+.gm-style-iw-d {
+	.infowindow-img-container {
+		width: 300px;
+		height: 200px;
+		overflow: hidden;
+		img {
+			width: 100%;
+			height: auto;
+		}
+	}
+
+	h2 {
+		margin-bottom: 5px;
+	}
+	.location {
+		font-weight: 500;
+	}
+}

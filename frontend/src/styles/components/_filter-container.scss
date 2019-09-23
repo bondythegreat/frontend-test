@@ -1,0 +1,7 @@
+.filter-container {
+	display: none;
+	@include breakpoint(sm) {
+		display: block;
+		margin-bottom: 20px!important;
+	}
+}

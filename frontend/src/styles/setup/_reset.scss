@@ -1,0 +1,23 @@
+html {
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+}
+
+a {
+	text-decoration: none;
+}
+
+button {
+	border: none;
+}
+.bg-white {
+	background-color: white;
+}
+.bg-teal {
+	background-color: $primary-color;
+}

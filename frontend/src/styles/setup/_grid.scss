@@ -1,0 +1,125 @@
+.container {
+	box-sizing: border-box;
+	max-width: 1140px;
+	margin: 0 auto;
+	width: 100%;
+	padding: 0 15px;
+
+	.row-blocks {
+		margin: 0 -15px;
+		display: flex;
+    	flex-wrap: wrap;
+	}
+
+	div[class^="block"] {
+		box-sizing: border-box;
+		position: relative;
+	    width: 100%;
+	    padding-right: 15px;
+	    padding-left: 15px;
+	}
+
+	.block-4 {
+		max-width: 100%;
+		@include breakpoint(sm) {
+			flex: 0 0 33.3333333333%;
+    		max-width: 33.3333333333%;
+		}
+
+	}
+	.block-6 {
+		max-width: 100%;
+		@include breakpoint(sm) {
+			flex: 0 0 50%;
+	    	max-width: 50%;
+	    }
+	}
+
+	.block-8 {
+		max-width: 100%;
+		@include breakpoint(sm) {
+			flex: 0 0 66.666666666%;
+    		max-width: 66.66666666%;
+    	}
+	}
+}
+
+.main-container {
+	padding: 20px 0;
+	@include breakpoint(sm) {
+		padding: 50px 0;
+	}
+}
+.d-flex {
+	display: flex;
+	& > * {
+		flex-direction: row;
+	}
+}
+
+.flex-right {
+	justify-content: flex-end;
+}
+.float-right {
+	float: right;
+}
+.right {
+	text-align: right;
+}
+
+.display-table {
+	display: table;
+	width: 100%;
+
+	& > * {
+		display: table-cell;
+		vertical-align: top;
+	}
+}
+.list-unstyled {
+	list-style: none;
+	margin: 0;
+	padding-left: 0;
+	li {
+		padding: 0;
+	}
+}
+
+.form-inline {
+	display: inline-block;
+}
+
+.filter-container {
+	.multiselect {
+		margin: 0 10px;
+	}
+	.block-first {
+		vertical-align: top;
+		.multiselect {
+			vertical-align: top;
+			&:first-child {
+				margin-left: 0;
+			}
+		}
+	}
+}
+
+.desktop {
+	display: none!important;
+	@include breakpoint(sm) {
+		display: block!important;
+	}
+}
+
+.mobile {
+	display: block!important;
+	@include breakpoint(sm) {
+		display: none!important;
+	}
+}
+.block {
+	width: 100%;
+}
+.white {
+	color: white;
+}
